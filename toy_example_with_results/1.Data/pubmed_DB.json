@@ -1,0 +1,471 @@
+[{
+    "abstract": "The ability to detect and use information from errors is essential during the acquisition of new skills. There is now a wealth of evidence about the brain mechanisms involved in error processing. However, the extent to which those mechanisms are engaged during the acquisition of new motor skills remains elusive. Here we examined rhythm synchronization learning across 12 blocks of practice in musically na\u00efve individuals and tracked changes in ERP signals associated with error-monitoring and error-awareness across distinct learning stages. Synchronization performance improved with practice, and performance improvements were accompanied by dynamic changes in ERP components related to error-monitoring and error-awareness. Early in learning, when performance was poor and the internal representations of the rhythms were weaker we observed a larger error-related negativity (ERN) following errors compared to later learning. The larger ERN during early learning likely results from greater conflict between competing motor responses, leading to greater engagement of medial-frontal conflict monitoring processes and attentional control. Later in learning, when performance had improved, we observed a smaller ERN accompanied by an enhancement of a centroparietal positive component resembling the P3. This centroparietal positive component was predictive of participant's performance accuracy, suggesting a relation between error saliency, error awareness and the consolidation of internal templates of the practiced rhythms. Moreover, we showed that during rhythm learning errors led to larger auditory evoked responses related to attention orientation which were triggered automatically and which were independent of the learning stage. The present study provides crucial new information about how the electrophysiological signatures related to error-monitoring and error-awareness change during the acquisition of new skills, extending previous work on error processing and cognitive control mechanisms to a more ecologically valid context.",
+    "authors": [
+        {
+            "affiliation": "Cognition and Brain Plasticity Group, Bellvitge Biomedical Research Institute (IDIBELL), Spain; Department of Basic Psychology, University of Barcelona, Spain.",
+            "firstname": "Gon\u00e7alo",
+            "initials": "G",
+            "lastname": "Padr\u00e3o"
+        },
+        {
+            "affiliation": "Laboratory for Motor Learning and Neural Plasticity, Department of Psychology, Concordia University, Canada.",
+            "firstname": "Virginia",
+            "initials": "V",
+            "lastname": "Penhune"
+        },
+        {
+            "affiliation": "Cognition and Brain Plasticity Group, Bellvitge Biomedical Research Institute (IDIBELL), Spain; Department of Basic Psychology, University of Barcelona, Spain; Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats (ICREA), Barcelona, Spain.",
+            "firstname": "Ruth",
+            "initials": "R",
+            "lastname": "de Diego-Balaguer"
+        },
+        {
+            "affiliation": "Cognition and Brain Plasticity Group, Bellvitge Biomedical Research Institute (IDIBELL), Spain; Department of Basic Psychology, University of Barcelona, Spain.",
+            "firstname": "Josep",
+            "initials": "J",
+            "lastname": "Marco-Pallares"
+        },
+        {
+            "affiliation": "Cognition and Brain Plasticity Group, Bellvitge Biomedical Research Institute (IDIBELL), Spain; Department of Basic Psychology, University of Barcelona, Spain; Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats (ICREA), Barcelona, Spain. Electronic address: arfornells@gmail.com.",
+            "firstname": "Antoni",
+            "initials": "A",
+            "lastname": "Rodriguez-Fornells"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2014 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.neuroimage.2014.06.034",
+    "journal": "NeuroImage",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2014-06-24 00:00:00",
+    "pubmed_id": "24956067",
+    "results": null,
+    "title": "ERP evidence of adaptive changes in error processing and attentional control during rhythm synchronization learning.",
+    "xml": "<Element PubmedArticle at 0x7f3f9363c100>"
+},{
+    "abstract": "D-amphetamine has been shown to affect early stages of stroke recovery, and may have a beneficial effect on functions when administered later after stroke.",
+    "authors": [
+        {
+            "affiliation": "Department of Neurology, University of M\u00fcnster, Germany. knecht@uni-muenster.de",
+            "firstname": "S",
+            "initials": "S",
+            "lastname": "Knecht"
+        },
+        {
+            "affiliation": null,
+            "firstname": "T",
+            "initials": "T",
+            "lastname": "Imai"
+        },
+        {
+            "affiliation": null,
+            "firstname": "S",
+            "initials": "S",
+            "lastname": "Kamping"
+        },
+        {
+            "affiliation": null,
+            "firstname": "C",
+            "initials": "C",
+            "lastname": "Breitenstein"
+        },
+        {
+            "affiliation": null,
+            "firstname": "H",
+            "initials": "H",
+            "lastname": "Henningsen"
+        },
+        {
+            "affiliation": null,
+            "firstname": "B",
+            "initials": "B",
+            "lastname": "L\u00fctkenh\u00f6ner"
+        },
+        {
+            "affiliation": null,
+            "firstname": "E B",
+            "initials": "EB",
+            "lastname": "Ringelstein"
+        }
+    ],
+    "conclusions": "No beneficial effect of D-amphetamine on somatosensory training improvements was found in healthy subjects.",
+    "copyrights": null,
+    "doi": "10.1212/wnl.57.12.2248",
+    "journal": "Neurology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2002-01-05 00:00:00",
+    "pubmed_id": "11756605",
+    "results": "All subjects improved significantly in tactile temporal acuity. However, improvement did not differ in subjects treated with or without D-amphetamine.",
+    "title": "D-amphetamine does not improve outcome of somatosensory training.",
+    "xml": "<Element PubmedArticle at 0x7f3f9363e580>"
+},{
+    "abstract": "Perceived duration can be subject to deviations around the time of a voluntary action. Whether the mechanisms underlying action-induced visual duration effects are effector-specific or require a more generalized action-linked multimodal calibration with the transient visual system, however, is a question yet to be answered. Here, we investigate this using dynamic visual stimuli presented as contingent upon the execution of an arbitrarily associated voluntary manual response. Our results demonstrate that the duration of intervals with arbitrarily associated keypress-visual event pair is perceived as shorter than the duration in a pure visual condition, where the same stimuli are rather passively observed without the execution of a concurrent action. Whereas the control experiments show that motor memory and attention cannot explain the action-induced changes in perceived temporal features, action-induced changes in perceived speed are dissociated from those in perceived duration, and that the duration compression disappears using isoluminant or static stimuli, which together provide evidence that these two effects can be modulated in the motion-processing units, although via separate neural mechanisms.",
+    "authors": [
+        {
+            "affiliation": "Department of Psychology, Bogazici University, Istanbul, Turkey; Cognitive Science Program, Bogazici University, Istanbul, Turkey. Electronic address: inci.ayhan@boun.edu.tr.",
+            "firstname": "Inci",
+            "initials": "I",
+            "lastname": "Ayhan"
+        },
+        {
+            "affiliation": "Cognitive Science Program, Bogazici University, Istanbul, Turkey. Electronic address: duygu.ozbagci@upf.edu.",
+            "firstname": "Duygu",
+            "initials": "D",
+            "lastname": "Ozbagci"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2020 Elsevier Ltd. All rights reserved.",
+    "doi": "10.1016/j.visres.2020.05.008",
+    "journal": "Vision research",
+    "keywords": [
+        "Action",
+        "Speed perception",
+        "Temporal vision",
+        "Time perception",
+        "Visuo-motor system"
+    ],
+    "methods": null,
+    "publication_date": "2020-07-06 00:00:00",
+    "pubmed_id": "32623245",
+    "results": null,
+    "title": "Action-induced changes in the perceived temporal features of visual events.",
+    "xml": "<Element PubmedArticle at 0x7f3f930fff00>"
+},{
+    "abstract": "Neurometabolic disorders encompass a diverse group of conditions characterized by inborn errors of metabolism, affecting various aspects of neurological function. This case report focuses on an 11-year-old male child with a neurometabolic disorder who presents with walking difficulties, speech impairment, and neurological symptoms. The background emphasizes the heterogeneity of neurometabolic disorders, their genetic and clinical complexity, and the need for tailored interventions to address specific manifestations. The primary aim of this study is to implement a comprehensive physiotherapy intervention plan for an 11-year-old male child with a neurometabolic disorder, targeting the improvement of gait abnormalities, regaining developmental milestones, and addressing associated challenges such as fatigue. The physiotherapy intervention plan employs a multifaceted approach, incorporating principles of neuroplasticity, motor learning, and adaptive strategies. A comprehensive gait training protocol involves proper orthotic fitting, forearm support walker training, treadmill exercises, and parallel bar training. Developmental milestones are addressed through motor and fine motor skill exercises. Coping strategies and energy conservation techniques are integrated to manage fatigue. The study utilizes outcome measures, including the Gross Motor Function Measure, Manual Ability Classification System, and Functional Independence Measure, to assess the impact of the intervention on the patient's functional abilities. Preliminary findings suggest promising improvements in gait, motor skills, and overall functional independence following the implemented physiotherapy intervention. The study underscores the potential effectiveness of a tailored approach rooted in neuroplasticity and motor learning principles for individuals with neurometabolic disorders. The patient-centered care model, encompassing coping strategies and energy conservation techniques, contributes to holistic well-being. While specific literature on these interventions in neurometabolic disorders is limited, the study provides valuable insights and calls for further research to refine and expand tailored therapeutic approaches in this challenging clinical context.",
+    "authors": [
+        {
+            "affiliation": "Department of Paediatric Physiotherapy, Ravi Nair Physiotherapy College, Datta Meghe Institute of Higher Education & Research, Wardha, IND.",
+            "firstname": "Neha A",
+            "initials": "NA",
+            "lastname": "Brahmane"
+        },
+        {
+            "affiliation": "Department of Paediatric Physiotherapy, Ravi Nair Physiotherapy College, Datta Meghe Institute of Higher Education & Research, Wardha, IND.",
+            "firstname": "H V",
+            "initials": "HV",
+            "lastname": "Sharath"
+        },
+        {
+            "affiliation": "Department of Neurophysiotherapy, Ravi Nair Physiotherapy College, Datta Meghe Institute of Higher Education & Research, Wardha, IND.",
+            "firstname": "Nikita H",
+            "initials": "NH",
+            "lastname": "Seth"
+        },
+        {
+            "affiliation": "Department of Paediatric Physiotherapy, Ravi Nair Physiotherapy College, Datta Meghe Institute of Higher Education & Research, Wardha, IND.",
+            "firstname": "Arasha F",
+            "initials": "AF",
+            "lastname": "Khan"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2024, Brahmane et al.",
+    "doi": "10.7759/cureus.57115",
+    "journal": "Cureus",
+    "keywords": [
+        "metabolic disorder",
+        "neurometabolic disorder",
+        "pediatric physiotherapy",
+        "physical therapy",
+        "rehabilitation"
+    ],
+    "methods": null,
+    "publication_date": "2024-04-29 00:00:00",
+    "pubmed_id": "38681474",
+    "results": null,
+    "title": "Effects of a Tailored Pediatric Rehabilitation Protocol on Children With Neurometabolic Disorder: A Case Report.",
+    "xml": "<Element PubmedArticle at 0x7f3f930feb80>"
+},{
+    "abstract": "Educating trainees to treat Peripheral Artery Disease (PAD) carries specific contemporary challenges. The national increase of the prevalence of PAD combined with a significant shortage of vascular surgeons creates a need for concern for future management of this complex disease. Over the past 2 decades, traditional (5 + 2) and integrated (0 + 5) paradigms have fostered trainee annual growth and comparable case distribution and volumes in endovascular and open surgical treatment options have been maintained. Close evaluation into not only the absolute numbers of surgical cases, but the level of trainee involvement in each logged case is recommended. Future implementation of the Entrustable Professional Activity (EPA) modules will hopefully assist in ensuring linear development of surgical skill and judgment. Additionally, advances in individual and systems level techniques to enhance skill acquisition in the form of \"off-the job training\" and simulation-based training may provide an enhancement to traditional technical training methods. Finally, the possibility and role of artificial intelligence in vascular surgery skill training must not be ignored, but carefully explored and utilized to modernize cognitive and technical skill preparation for trainees in the and delivery of care for PAD patients. Overall, the training residents for the treatment of PAD patients will be associated with new challenges that vascular surgery must embrace and surmount to advance our specialty.",
+    "authors": [
+        {
+            "affiliation": "Department of General Surgery, Medical College of Georgia, Augusta, GA.",
+            "firstname": "Anthony",
+            "initials": "A",
+            "lastname": "Campbell"
+        },
+        {
+            "affiliation": "Department of Vascular Surgery, Vanderbilt University Medical Center, Nashville, TN.",
+            "firstname": "Hossam",
+            "initials": "H",
+            "lastname": "Alslaim"
+        },
+        {
+            "affiliation": "University of Tennessee Health Science Center, Memphis, TN.",
+            "firstname": "Sira",
+            "initials": "S",
+            "lastname": "Duson"
+        },
+        {
+            "affiliation": "Division of Vascular and Endovascular Surgery, Department of Surgery, David Geffen School of Medicine at UCLA, Los Angeles, CA. Electronic address: vrowe@mednet.ucla.edu.",
+            "firstname": "Vincent L",
+            "initials": "VL",
+            "lastname": "Rowe"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "Copyright \u00a9 2024 Elsevier Inc. All rights reserved.",
+    "doi": "10.1016/j.avsg.2023.12.101",
+    "journal": "Annals of vascular surgery",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2024-04-07 00:00:00",
+    "pubmed_id": "38582208",
+    "results": null,
+    "title": "Educating Trainees to Treat Peripheral Arterial Disease: Challenges and Opportunities.",
+    "xml": "<Element PubmedArticle at 0x7f3fc019c3c0>"
+},{
+    "abstract": "Staff with varying backgrounds and educational qualifications can be effectively trained to implement procedures in line with evidence-based practice. Behavioural skills training (BST) is a competency-based training model used to effectively educate a broad selection of professionals, including front line staff, in a range of work-related skills. However, BST has yet to be evaluated in a large group-based experiment.",
+    "authors": [
+        {
+            "affiliation": "School of Psychology, Trinity College Dublin, Dublin 2, Ireland.\nBehavioural Department, Rehab Group, Dublin 4, Ireland.",
+            "firstname": "L",
+            "initials": "L",
+            "lastname": "Gormley"
+        },
+        {
+            "affiliation": "School of Psychology, Trinity College Dublin, Dublin 2, Ireland.",
+            "firstname": "O",
+            "initials": "O",
+            "lastname": "Healy"
+        },
+        {
+            "affiliation": "School of Psychology, Trinity College Dublin, Dublin 2, Ireland.",
+            "firstname": "B",
+            "initials": "B",
+            "lastname": "O'Sullivan"
+        },
+        {
+            "affiliation": "Behavioural Department, Rehab Group, Dublin 4, Ireland.",
+            "firstname": "D",
+            "initials": "D",
+            "lastname": "O'Regan"
+        },
+        {
+            "affiliation": "College of Natural and Health Sciences, Zayed University, Abu Dhabi, Abu Dhabi, United Arab Emirates.",
+            "firstname": "I",
+            "initials": "I",
+            "lastname": "Grey"
+        },
+        {
+            "affiliation": "School of Psychology, Trinity College Dublin, Dublin 2, Ireland.",
+            "firstname": "M",
+            "initials": "M",
+            "lastname": "Bracken"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": "\u00a9 2019 MENCAP and International Association of the Scientific Study of Intellectual and Developmental Disabilities and John Wiley & Sons Ltd.",
+    "doi": "10.1111/jir.12630",
+    "journal": "Journal of intellectual disability research : JIDR",
+    "keywords": [
+        "behavioural skills training",
+        "clustered RCT",
+        "knowledge",
+        "staff",
+        "well-being"
+    ],
+    "methods": null,
+    "publication_date": "2019-05-21 00:00:00",
+    "pubmed_id": "31106922",
+    "results": "Participants in the intervention condition demonstrated statistically significant improvements in their knowledge scores over the study period. Participants in the control condition showed no change or a statistically significant decrease in their knowledge scores. No statistically significant changes to well-being were observed for either group. There was clear evidence of knowledge maintenance, as well as skill acquisition and subsequent generalisation to the workplace environment, among participants in the intervention condition. Participants also evaluated the BST intervention positively.",
+    "title": "The impact of behavioural skills training on the knowledge, skills and well-being of front line staff in the intellectual disability sector: a clustered randomised control trial.",
+    "xml": "<Element PubmedArticle at 0x7f3f9353b1c0>"
+},{
+    "abstract": "The present aging study investigated the impact of a multisession anodal-tDCS protocol applied over the primary motor cortex (M1) during motor sequence learning on generalization of motor learning and plasticity-dependent measures of cortical excitability.",
+    "authors": [
+        {
+            "affiliation": "Centre de recherche de l'h\u00f4pital du Sacr\u00e9-C\u0153ur de Montr\u00e9al, 5400, boulevard Gouin Ouest, Montr\u00e9al, Qu\u00e9bec H4J1C5, Canada; D\u00e9partement de Psychologie, Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al, 100, rue Sherbrooke Ouest, Montr\u00e9al, Qu\u00e9bec H2X3P2, Canada. Electronic address: gaelle.dumel@gmail.com.",
+            "firstname": "Ga\u00eblle",
+            "initials": "G",
+            "lastname": "Dumel"
+        },
+        {
+            "affiliation": "Centre de recherche de l'h\u00f4pital du Sacr\u00e9-C\u0153ur de Montr\u00e9al, 5400, boulevard Gouin Ouest, Montr\u00e9al, Qu\u00e9bec H4J1C5, Canada; D\u00e9partement de Psychologie, Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al, 100, rue Sherbrooke Ouest, Montr\u00e9al, Qu\u00e9bec H2X3P2, Canada.",
+            "firstname": "Marie-\u00c8ve",
+            "initials": "M\u00c8",
+            "lastname": "Bourassa"
+        },
+        {
+            "affiliation": "Centre de recherche de l'h\u00f4pital du Sacr\u00e9-C\u0153ur de Montr\u00e9al, 5400, boulevard Gouin Ouest, Montr\u00e9al, Qu\u00e9bec H4J1C5, Canada.",
+            "firstname": "Camille",
+            "initials": "C",
+            "lastname": "Charlebois-Plante"
+        },
+        {
+            "affiliation": "Centre de recherche de l'h\u00f4pital du Sacr\u00e9-C\u0153ur de Montr\u00e9al, 5400, boulevard Gouin Ouest, Montr\u00e9al, Qu\u00e9bec H4J1C5, Canada; D\u00e9partement de Psychologie, Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al, 100, rue Sherbrooke Ouest, Montr\u00e9al, Qu\u00e9bec H2X3P2, Canada.",
+            "firstname": "Martine",
+            "initials": "M",
+            "lastname": "Desjardins"
+        },
+        {
+            "affiliation": "Unit\u00e9 de neuroimagerie fonctionnelle, Centre de recherche de l'institut de g\u00e9riatrie de Montr\u00e9al, 4545, chemin Queen-Mary, Montr\u00e9al, Qu\u00e9bec H3W1W4, Canada.",
+            "firstname": "Julien",
+            "initials": "J",
+            "lastname": "Doyon"
+        },
+        {
+            "affiliation": "D\u00e9partement de Psychologie, Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al, 100, rue Sherbrooke Ouest, Montr\u00e9al, Qu\u00e9bec H2X3P2, Canada.",
+            "firstname": "Dave",
+            "initials": "D",
+            "lastname": "Saint-Amour"
+        },
+        {
+            "affiliation": "Centre de recherche de l'h\u00f4pital du Sacr\u00e9-C\u0153ur de Montr\u00e9al, 5400, boulevard Gouin Ouest, Montr\u00e9al, Qu\u00e9bec H4J1C5, Canada; D\u00e9partement de Chirurgie, Universit\u00e9 de Montr\u00e9al, 2900, boulevard \u00c9douard-Montpetit, Montr\u00e9al, Qu\u00e9bec H3T1J4, Canada.",
+            "firstname": "Louis",
+            "initials": "L",
+            "lastname": "De Beaumont"
+        }
+    ],
+    "conclusions": "Anodal-tDCS facilitates motor learning generalisation in an aging population through intracortical disinhibition effects.",
+    "copyrights": "Copyright \u00a9 2017 International Federation of Clinical Neurophysiology. Published by Elsevier B.V. All rights reserved.",
+    "doi": "10.1016/j.clinph.2017.10.041",
+    "journal": "Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology",
+    "keywords": [
+        "Brain plasticity",
+        "Cortical inhibition",
+        "Geriatrics",
+        "Motor cortex",
+        "Motor learning generalization",
+        "Noninvasive brain stimulation"
+    ],
+    "methods": null,
+    "publication_date": "2017-12-11 00:00:00",
+    "pubmed_id": "29223355",
+    "results": "Relative to sham, participants assigned to the anodal-tDCS intervention revealed significantly greater performance gains on both the trained SRTT and the untrained PPT as well as a greater disinhibition of long-interval cortical inhibition (LICI). Generalization effects of anodal-tDCS significantly correlated with LICI disinhibition.",
+    "title": "Multisession anodal transcranial direct current stimulation induces motor cortex plasticity enhancement and motor learning generalization in an aging population.",
+    "xml": "<Element PubmedArticle at 0x7f3f930354c0>"
+},{
+    "abstract": "Regular physical activity is linked to a decrease in cardiovascular risk and mortality, whatever the cause. It is a very important part of the treatment of cardiovascular diseases. However, exercise can cause sudden death, especially when patients have underlying cardiomyopathy. The aim of the cardiologist will be to establish a benefit-risk balance between the risk of sudden death and the benefits of physical exercise. Sport cardiology is a relatively emerging field and the amount of proofs concerning cardiovascular diseases and sudden death is unfortunately weak. Most of the best practices are based on experts' consensus. But knowledge is improving in that domain and retrospectively we are able to do a better distinction between situations when a risk of sudden death is great versus other situations where a greater liberty of sport practice is authorized. This article aims to sort out new recommendations and their evolution during these last years.",
+    "authors": [
+        {
+            "affiliation": "Service de Cardiologie, CHU Li\u00e8ge, Belgique.",
+            "firstname": "M",
+            "initials": "M",
+            "lastname": "Deneye"
+        },
+        {
+            "affiliation": "Service de Cardiologie, CHU Li\u00e8ge, Belgique.",
+            "firstname": "A",
+            "initials": "A",
+            "lastname": "Ancion"
+        },
+        {
+            "affiliation": "Facult\u00e9 de M\u00e9decine, ULi\u00e8ge; Service de Cardiologie, CHU Li\u00e8ge; GIGA Cardiovascular Sciences, Li\u00e8ge, Belgique.",
+            "firstname": "P",
+            "initials": "P",
+            "lastname": "Lancellotti"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": null,
+    "journal": "Revue medicale de Liege",
+    "keywords": [
+        "Cardiomyopathy",
+        "Guidelines",
+        "Physical activity",
+        "Sports cardiology"
+    ],
+    "methods": null,
+    "publication_date": "2021-10-12 00:00:00",
+    "pubmed_id": "34632741",
+    "results": null,
+    "title": "[Update on latest European Cardiology Society (ESC) recommendations on sports cardiology].",
+    "xml": "<Element PubmedArticle at 0x7f3f933001c0>"
+},{
+    "abstract": "Lisberger and Sejnowski (1992) recently proposed a computational model for motor learning in the vestibular-ocular reflex (VOR) system. They showed that the steady-state gain of the system can be modified by changing the ratio of the two time constants along the feedforward and the feedback projections to the Purkinje cell unit in their model VOR network. Here we generalize their model by including two additional time constant variables and two synaptic weight variables, which were set to fixed values in their original model. We derive the stability conditions of the generalized system and thoroughly analyze its steady-state and transient behavior. It is found that the generalized system can display a continuum of behavior with the Lisberger-Sejnowski model and a static model proposed by Miles et al. (1980b) as special cases. Moreover, although mathematically the Lisberger-Sejnowski model requires two precise relationships among its parameters, the model is robust against small perturbations from the physiological point of view. Additional considerations on the gain of smooth pursuit eye movement, which is believed to share the positive feedback loop with the VOR network, suggest that the VOR network should operate in the parameter range favoring the behavior studied by Lisberger and Sejnowski. Under this condition, the steady-state gain of the VOR is found to depend on all four time constants in the network. The time constant of the Purkinje cell unit should be relatively small in order to achieve effective VOR learning through the modifications of the other time constants. Our analysis provides a thorough characterization of the system and could thus be useful for guiding further physiological tests of the model.",
+    "authors": [
+        {
+            "affiliation": "Center for Neurobiology and Behavior, Columbia University, New York, NY 10032, USA.",
+            "firstname": "N",
+            "initials": "N",
+            "lastname": "Qian"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1162/neco.1995.7.4.735",
+    "journal": "Neural computation",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "1995-07-01 00:00:00",
+    "pubmed_id": "7584886",
+    "results": null,
+    "title": "Generalization and analysis of the Lisberger-Sejnowski VOR model.",
+    "xml": "<Element PubmedArticle at 0x7f3f93300c80>"
+},{
+    "abstract": "Long-term depression (LTD) and long-term potentiation (LTP) at cerebellar parallel fiber-Purkinje cell (PF-PC) synapses play critical roles in motor learning. The 1 Hz stimulation at PF-PC synapses induces a postsynaptically expressed LTP that requires a postsynaptic Ca(2+) transient, phosphatases, and nitric oxide (NO). However, the mechanism underlying 1 Hz PF-LTP remains unclear because none of the known events is related to each other. Here, we demonstrated that 1 Hz PF-LTP requires postsynaptic cytosolic phospholipase A2 \u03b1 (cPLA2\u03b1)/arachidonic acid (AA) signaling and presynaptic endocannabinoid receptors. Using patch-clamp recording in cerebellar slices, we found that 1 Hz PF-LTP was abolished in cPLA2\u03b1-knock-out mice. This deficit was effectively rescued by the conjunction of 1 Hz PF stimulation and the local application of AA. 2-Arachidonoylglycerol and the retrograde activation of cannabinoid receptor 1 (CB1R) were also involved in 1 Hz LTP because it was blocked by the hydrolysis of 2-AG or by inhibiting CB1Rs. The amount of NO released was detected using an NO electrode in cultured granule cells and PF terminals. Our results showed that the activation of CB1Rs at PF terminals activated NO synthetase and promoted NO production. The 1 Hz PF-stimuli evoked limited NO, but 100 Hz PF stimulation generated a large amount. Therefore, 1 Hz PF-LTP, distinct from classical postsynaptically expressed plasticity, requires concurrent presynaptic and postsynaptic activity. In addition, NO of sufficient amplitude decides between the weakening and strengthening of PF-PC synapses.",
+    "authors": [
+        {
+            "affiliation": "Department of Neurobiology, Key Laboratory of Medical Neurobiology of the Ministry of Health, Zhejiang Province Key Laboratory of Neurobiology, Zhejiang University School of Medicine, Hangzhou, China, and Neuroscience Care Unit, Second Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, 310058 China.",
+            "firstname": "De-Juan",
+            "initials": "DJ",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Li-Da",
+            "initials": "LD",
+            "lastname": "Su"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ya-Nan",
+            "initials": "YN",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Dong",
+            "initials": "D",
+            "lastname": "Yang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Cheng-Long",
+            "initials": "CL",
+            "lastname": "Sun"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Lin",
+            "initials": "L",
+            "lastname": "Zhou"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Xin-Xin",
+            "initials": "XX",
+            "lastname": "Wang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Ying",
+            "initials": "Y",
+            "lastname": "Shen"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1523/JNEUROSCI.4064-13.2014",
+    "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+    "keywords": [
+        "Purkinje cell",
+        "arachidonic acid",
+        "cPLA2\u03b1",
+        "endocannabinoids",
+        "long-term potentiation",
+        "parallel fiber"
+    ],
+    "methods": null,
+    "publication_date": "2014-02-07 00:00:00",
+    "pubmed_id": "24501374",
+    "results": null,
+    "title": "Long-term potentiation at cerebellar parallel fiber-Purkinje cell synapses requires presynaptic and postsynaptic signaling cascades.",
+    "xml": "<Element PubmedArticle at 0x7f3f93153b40>"
+}
+]

@@ -1,0 +1,20 @@
+[workspace]
+authors = ["Alfredo Hernandez <alfredo.hernandez@ug.uchile.cl>"]
+channels = ["conda-forge", "main", "r", "msys2"]
+name = "motorlearning"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+numpy = "2.2.4.*"
+pandas = "2.2.3.*"
+ipykernel = "*"
+scikit-learn = "1.6.1.*"
+plotly = "6.0.1.*"
+matplotlib = "3.10.0.*"
+
+[pypi-dependencies]
+pymedx = "~=0.5.1"
+rispy = ">=0.10.0, <0.11"
