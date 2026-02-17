@@ -133,7 +133,7 @@ def main():
     citation_matrix, title_date_df, edge_df = create_citation_matrix(citations, references, doi_pubmed_to_title, date, authors, keywords, abstracts, journals , databases)
 
     # Save the citation matrix to a CSV file
-    citation_matrix.to_csv(os.path.join(input_dir, 'citation_matrix.csv'), sep='|', encoding='utf-8')
+    citation_matrix.to_csv(os.path.join(output_dir, 'citation_matrix.csv'), sep='|', encoding='utf-8')
 
     # Save the title-date DataFrame to a CSV file
     title_date_df.to_csv(os.path.join(output_dir, 'node_attributes.csv'), sep=',', index=False, encoding='utf-8')
