@@ -2,7 +2,7 @@
 authors = ["Alfredo Hernandez <alfredo.hernandez@ug.uchile.cl>"]
 channels = ["conda-forge", "main", "r", "msys2"]
 name = "motorlearning"
-platforms = ["win-64"]
+platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
 version = "0.1.0"
 
 [tasks]
